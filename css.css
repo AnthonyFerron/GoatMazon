@@ -1,0 +1,47 @@
+
+#titre{
+    color: blue;
+    text-align: center;
+    font-size: xxx-large;
+}
+#sous-titre{
+    color: blue;
+    font-size: xx-large;
+    text-align: center;
+}
+a{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+
+}
+
+
+#foto{
+    float: left;
+}
+#foto2{
+    float: right;
+}
+#trait1
+{
+    background-color: black;
+    height: 10px;
+    width: auto;
+    margin-top: 200px;
+}
+#description{
+    font-size: x-large;
+    text-align: center;
+}
+#trait2{
+    background-color: black;
+    width: auto;
+    height: 10px;
+}
+
+#m1 {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    }
